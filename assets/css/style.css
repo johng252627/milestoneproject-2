@@ -1,0 +1,12 @@
+#gameboard {
+    height: 400px;
+    width: 400px;
+    background: black;
+    border: 1px solid black;
+}
+
+#hidden {
+    height: 100px;
+    width: 100px;
+    float: left;
+}
