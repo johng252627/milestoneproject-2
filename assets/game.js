@@ -1,0 +1,1 @@
+let tileArray = ["pink", "pink", "green", "green", "blue", "blue", "red", "red", "purple", "purple", "orange", "orange"]
