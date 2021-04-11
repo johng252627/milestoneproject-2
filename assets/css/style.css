@@ -44,6 +44,72 @@ div #gameboard {
     margin-right: auto;
 }
 
+.pink {
+    height: 100px;
+    width: 100px;
+    float: left;
+    outline: 1px solid black;
+    background: pink;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.green {
+    height: 100px;
+    width: 100px;
+    float: left;
+    outline: 1px solid black;
+    background: green;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blue {
+    height: 100px;
+    width: 100px;
+    float: left;
+    outline: 1px solid black;
+    background: blue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.red {
+    height: 100px;
+    width: 100px;
+    float: left;
+    outline: 1px solid black;
+    background: red;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.purple {
+    height: 100px;
+    width: 100px;
+    float: left;
+    outline: 1px solid black;
+    background: purple;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.orange {
+    height: 100px;
+    width: 100px;
+    float: left;
+    outline: 1px solid black;
+    background: orange;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .hidden:hover {
     transform: scale(1.1);
 }
