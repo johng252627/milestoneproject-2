@@ -60,10 +60,21 @@ h1 {
     font-family: "Train One", sans-serif;
     font-size: 50px;
     padding-top: 10px;
+    text-transform: uppercase;
 }
 
 h3 {
     font-family: "Montserrat", sans-serif;
     font-size: 25px;
     padding-top: 10px;
+}
+
+.instructions {
+    display: block;
+    padding-top: 150px;
+}
+
+p {
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
 }
