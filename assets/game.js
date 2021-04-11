@@ -45,3 +45,13 @@ $("#tile11").click(function () {
 $("#tile12").click(function () {
     (this).removeClass("hidden").addClass("orange");
 })
+
+//From https://jsfiddle.net/C6LPY/2/
+
+$(function () {
+    var game = $("#gameboard");
+    var tiles = game.children();
+    while (divs.length) {
+        game.append(divs.splice(Math.floor(Math.random() * divs.length), 1)[0]);
+    }
+});
