@@ -55,3 +55,15 @@ footer {
     display: block;
     clear: both;
 }
+
+h1 {
+    font-family: "Train One", sans-serif;
+    font-size: 50px;
+    padding-top: 10px;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 25px;
+    padding-top: 10px;
+}
