@@ -10,14 +10,14 @@ html {
 }
 
 body {
-    background: #f2edce;
+    background: #fafafa;
     margin: 0;
     text-align: center;
 }
 
 header {
     height: 200px;
-    background-color: green;
+    background-color: #f2edce;
     margin-bottom: 100px;
 }
 
@@ -117,7 +117,7 @@ div #gameboard {
 footer {
     height: 200px;
     margin-top: 50px;
-    background-color: hotpink;
+    background-color: #f2edce;
     display: block;
     clear: both;
 }
